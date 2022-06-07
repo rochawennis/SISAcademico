@@ -11,7 +11,7 @@
 <h1 align="center">Cadastro de Alunos</h1>
 <img src="https://user-images.githubusercontent.com/47645762/172302648-4baf07af-cab8-40f9-9b5c-f00a451b27e8.jpeg" width="100%"></img> 
 
-<h1 align="center">Edição de Aluno</h1>
+<h1 align="center">Edição de Alunos</h1>
 <img src="https://user-images.githubusercontent.com/47645762/172304540-b972b67e-a815-4fdd-b2b6-757fb0a08afa.jpeg" width="100%"></img> 
 
 <h1 align="center">Cadastro de Cursos</h1>
