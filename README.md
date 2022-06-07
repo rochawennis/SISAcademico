@@ -18,10 +18,14 @@
 <img src="https://user-images.githubusercontent.com/47645762/172302730-ea564200-778a-4684-b503-fedb10613d05.jpeg" width="100%"></img>
 
 <h1 align="center">Edição de Curso</h1>
-<img src="https://user-images.githubusercontent.com/47645762/172304780-8c57c552-3575-4569-9c30-d000e201b610.jpeg" width="100%"></img> 
+<img src="https://user-images.githubusercontent.com/47645762/172304780-8c57c552-3575-4569-9c30-d000e201b610.jpeg" width="100%"></img>
+
+<h1 align="center">Exclusão de Curso</h1>
+<img src="https://user-images.githubusercontent.com/47645762/172305028-514590bf-08d2-4127-81ac-df7eb8f96ea9.jpeg" width="100%"></img> 
 
 <h1 align="center">Alunos Cadastrados</h1>
 <img src="https://user-images.githubusercontent.com/47645762/172302759-575c8f37-6b6b-4710-a6dc-45a569315526.jpeg" width="100%"></img> 
 
 <h1 align="center">Filtro por curso do Aluno</h1>
 <img src="https://user-images.githubusercontent.com/47645762/172304822-ce64e3ea-b48e-403e-8f45-1cbebece5432.jpeg" width="100%"></img> 
+
