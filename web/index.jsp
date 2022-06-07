@@ -8,7 +8,7 @@
         <jsp:include page="menu.jsp"></jsp:include>
         <div class="container">
             <div class="mt-4">
-                <h4>Selecione no menu acima a opção desejada.</h4>
+                <h4>Desejamos boas vindas. Escolha uma das opções acima</h4>
             </div>
         </div>
     </body>
