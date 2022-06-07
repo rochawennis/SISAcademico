@@ -26,6 +26,9 @@
 <h1 align="center">Alunos Cadastrados</h1>
 <img src="https://user-images.githubusercontent.com/47645762/172302759-575c8f37-6b6b-4710-a6dc-45a569315526.jpeg" width="100%"></img> 
 
+<h1 align="center">Exclusão de Aluno</h1>
+<img src="https://user-images.githubusercontent.com/47645762/172305279-6592f69d-ddc4-4e0f-83bb-c4c58e416584.jpeg" width="100%"></img>
+
 <h1 align="center">Filtro por curso do Aluno</h1>
 <img src="https://user-images.githubusercontent.com/47645762/172304822-ce64e3ea-b48e-403e-8f45-1cbebece5432.jpeg" width="100%"></img> 
 
